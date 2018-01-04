@@ -1,0 +1,20 @@
+{
+  "name": "directive_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dev-server.js",
+    "build": "grunt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-html2js": "^0.5.1",
+    "live-server": "^1.2.0"
+  }
+}
